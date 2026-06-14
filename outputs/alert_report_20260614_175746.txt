@@ -1,0 +1,33 @@
+============================================================
+  IoT Smart Agriculture Monitoring System
+  Alert Report
+============================================================
+  Session    : session_20260614_175746
+  Generated  : 2026-06-14 17:57:49
+============================================================
+
+[SUMMARY]
+  Total Readings : 10
+  Total Alerts   : 10
+  Alert Rate     : 100.0%
+  Pump ON Events : 0
+  Pump OFF Events: 10
+
+[SENSOR AVERAGES]
+  soil_moisture       : 39.30
+  temperature         : 30.93
+  humidity            : 50.67
+  light_intensity     : 46502.39
+  water_level         : 66.58
+
+[ALERT LOG]
+  [2026-06-14 17:57:46] Reading #1: 🟡 WARNING: Soil moisture 12.5% — soil drying. Start irrigation soon.
+  [2026-06-14 17:57:46] Reading #1: 🟡 WARNING: Temperature 38.6°C — heat stress. Increase irrigation.
+  [2026-06-14 17:57:46] Reading #1: 🟡 WARNING: Humidity 25.2% — low humidity. Monitor transpiration.
+  [2026-06-14 17:57:47] Reading #3: 🟡 WARNING: Soil moisture 19.1% — soil drying. Start irrigation soon.
+  [2026-06-14 17:57:47] Reading #3: 🔴 CRITICAL: Temperature 48.9°C — CROP DEATH RISK! Emergency cooling needed.
+  [2026-06-14 17:57:47] Reading #3: 🟡 WARNING: Humidity 29.7% — low humidity. Monitor transpiration.
+  [2026-06-14 17:57:47] Reading #5: 🟡 WARNING: Soil moisture 17.6% — soil drying. Start irrigation soon.
+  [2026-06-14 17:57:47] Reading #5: 🟡 WARNING: Temperature 39.9°C — heat stress. Increase irrigation.
+  [2026-06-14 17:57:47] Reading #5: 🟡 WARNING: Humidity 29.8% — low humidity. Monitor transpiration.
+  [2026-06-14 17:57:49] Reading #9: 🔴 CRITICAL: Soil moisture 3.1% — CROPS AT WILTING RISK! Irrigate immediately.
