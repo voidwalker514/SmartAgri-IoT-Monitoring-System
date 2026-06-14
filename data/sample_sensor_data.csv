@@ -1,0 +1,201 @@
+reading_id,timestamp,scenario,soil_moisture,temperature,humidity,light_intensity,water_level,pump_status,alert_count,alerts,system_status
+1,2025-06-01 06:00:00,dry_soil,5.05,38.26,34.43,60294.08,51.59,ON,2,🔴 CRITICAL: Soil moisture 5.0% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 38.3°C — heat stress. Increase irrigation.,CRITICAL
+2,2025-06-01 06:05:00,normal,61.49,25.52,74.73,21855.28,65.85,ON,0,None,OK
+3,2025-06-01 06:10:00,dry_soil,11.18,38.76,33.6,62267.84,76.44,ON,2,🟡 WARNING: Soil moisture 11.2% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.8°C — heat stress. Increase irrigation.,WARNING
+4,2025-06-01 06:15:00,dry_soil,20.56,35.58,23.77,56384.64,54.08,ON,2,🟡 WARNING: Soil moisture 20.6% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 23.8% — low humidity. Monitor transpiration.,WARNING
+5,2025-06-01 06:20:00,dry_soil,9.06,33.32,36.52,45260.31,73.39,ON,1,🔴 CRITICAL: Soil moisture 9.1% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+6,2025-06-01 06:25:00,dry_soil,15.86,38.16,20.68,40658.23,58.5,ON,3,🟡 WARNING: Soil moisture 15.9% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.2°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 20.7% — low humidity. Monitor transpiration.,WARNING
+7,2025-06-01 06:30:00,dry_soil,8.03,38.04,28.99,70316.32,52.36,ON,3,🔴 CRITICAL: Soil moisture 8.0% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 38.0°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 29.0% — low humidity. Monitor transpiration.,CRITICAL
+8,2025-06-01 06:35:00,normal,61.7,25.41,57.64,45918.92,58.88,ON,0,None,OK
+9,2025-06-01 06:40:00,dry_soil,18.8,29.63,33.02,49955.92,71.68,ON,1,🟡 WARNING: Soil moisture 18.8% — soil drying. Start irrigation soon.,WARNING
+10,2025-06-01 06:45:00,dry_soil,20.21,31.74,38.24,82242.51,72.36,ON,1,🟡 WARNING: Soil moisture 20.2% — soil drying. Start irrigation soon.,WARNING
+11,2025-06-01 06:50:00,dry_soil,13.75,28.38,32.65,84778.61,74.58,ON,1,🟡 WARNING: Soil moisture 13.8% — soil drying. Start irrigation soon.,WARNING
+12,2025-06-01 06:55:00,dry_soil,7.25,36.97,37.24,42675.03,58.54,ON,1,🔴 CRITICAL: Soil moisture 7.2% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+13,2025-06-01 07:00:00,normal,44.53,22.7,65.14,37391.56,77.08,ON,0,None,OK
+14,2025-06-01 07:05:00,normal,51.07,25.08,61.23,56947.91,66.25,ON,0,None,OK
+15,2025-06-01 07:10:00,normal,51.24,24.21,71.31,22053.2,69.95,ON,0,None,OK
+16,2025-06-01 07:15:00,dry_soil,21.31,30.01,38.64,53633.88,65.71,ON,1,🟡 WARNING: Soil moisture 21.3% — soil drying. Start irrigation soon.,WARNING
+17,2025-06-01 07:20:00,normal,57.88,26.28,61.14,58734.13,88.84,ON,0,None,OK
+18,2025-06-01 07:25:00,normal,51.55,19.6,65.71,48341.48,89.6,ON,0,None,OK
+19,2025-06-01 07:30:00,normal,60.79,28.8,62.25,20981.52,71.66,ON,0,None,OK
+20,2025-06-01 07:35:00,dry_soil,6.09,30.25,22.42,47734.88,66.41,ON,2,🔴 CRITICAL: Soil moisture 6.1% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 22.4% — low humidity. Monitor transpiration.,CRITICAL
+21,2025-06-01 07:40:00,normal,49.73,22.8,69.51,49871.46,66.98,ON,0,None,OK
+22,2025-06-01 07:45:00,normal,69.55,28.81,61.13,61850.19,66.89,OFF,0,None,OK
+23,2025-06-01 07:50:00,dry_soil,8.78,33.92,21.09,70860.42,79.16,ON,2,🔴 CRITICAL: Soil moisture 8.8% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 21.1% — low humidity. Monitor transpiration.,CRITICAL
+24,2025-06-01 07:55:00,normal,51.56,25.36,65.9,24062.15,85.85,ON,0,None,OK
+25,2025-06-01 08:00:00,normal,55.68,25.82,60.05,33313.18,65.82,ON,0,None,OK
+26,2025-06-01 08:05:00,normal,64.52,25.84,62.3,57661.38,81.26,ON,0,None,OK
+27,2025-06-01 08:10:00,normal,48.23,21.56,70.92,60293.69,91.6,ON,0,None,OK
+28,2025-06-01 08:15:00,dry_soil,4.23,40.09,31.1,53674.18,74.77,ON,2,🔴 CRITICAL: Soil moisture 4.2% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 40.1°C — heat stress. Increase irrigation.,CRITICAL
+29,2025-06-01 08:20:00,normal,58.85,26.97,61.3,33421.63,88.3,ON,0,None,OK
+30,2025-06-01 08:25:00,normal,64.12,25.75,73.91,29434.27,62.7,ON,0,None,OK
+31,2025-06-01 08:30:00,dry_soil,6.89,32.79,31.4,44794.86,73.13,ON,1,🔴 CRITICAL: Soil moisture 6.9% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+32,2025-06-01 08:35:00,dry_soil,9.32,30.01,24.21,81921.82,56.79,ON,2,🔴 CRITICAL: Soil moisture 9.3% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 24.2% — low humidity. Monitor transpiration.,CRITICAL
+33,2025-06-01 08:40:00,normal,53.09,28.57,71.61,29659.43,78.91,ON,0,None,OK
+34,2025-06-01 08:45:00,normal,58.1,23.84,65.13,56568.96,60.79,ON,0,None,OK
+35,2025-06-01 08:50:00,dry_soil,12.12,34.59,24.68,52875.51,64.93,ON,2,🟡 WARNING: Soil moisture 12.1% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 24.7% — low humidity. Monitor transpiration.,WARNING
+36,2025-06-01 08:55:00,dry_soil,6.98,35.86,33.19,40308.41,48.06,ON,1,🔴 CRITICAL: Soil moisture 7.0% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+37,2025-06-01 09:00:00,normal,63.2,23.4,67.3,48160.41,83.58,ON,0,None,OK
+38,2025-06-01 09:05:00,dry_soil,11.64,35.83,34.96,74888.29,57.79,ON,1,🟡 WARNING: Soil moisture 11.6% — soil drying. Start irrigation soon.,WARNING
+39,2025-06-01 09:10:00,dry_soil,11.14,29.98,25.39,69616.43,54.69,ON,2,🟡 WARNING: Soil moisture 11.1% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 25.4% — low humidity. Monitor transpiration.,WARNING
+40,2025-06-01 09:15:00,normal,57.73,24.48,64.33,52197.73,83.37,ON,0,None,OK
+41,2025-06-01 09:20:00,normal,42.12,28.93,70.16,44269.99,78.49,ON,0,None,OK
+42,2025-06-01 09:25:00,normal,53.8,25.41,65.27,24600.62,71.33,ON,0,None,OK
+43,2025-06-01 09:30:00,normal,60.05,23.41,63.15,53041.21,71.44,ON,0,None,OK
+44,2025-06-01 09:35:00,normal,39.72,26.44,68.0,48340.12,84.39,ON,0,None,OK
+45,2025-06-01 09:40:00,normal,51.18,26.79,57.92,21847.63,78.2,ON,0,None,OK
+46,2025-06-01 09:45:00,dry_soil,5.14,29.49,42.92,59572.63,69.56,ON,1,🔴 CRITICAL: Soil moisture 5.1% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+47,2025-06-01 09:50:00,normal,62.84,21.28,75.19,34422.46,68.38,ON,0,None,OK
+48,2025-06-01 09:55:00,dry_soil,6.48,38.0,30.33,60983.2,50.36,ON,2,🔴 CRITICAL: Soil moisture 6.5% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 38.0°C — heat stress. Increase irrigation.,CRITICAL
+49,2025-06-01 10:00:00,high_temp,25.2,45.59,32.59,89740.55,33.3,ON,1,🔴 CRITICAL: Temperature 45.6°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+50,2025-06-01 10:05:00,dry_soil,18.67,32.49,31.5,83287.59,48.0,ON,1,🟡 WARNING: Soil moisture 18.7% — soil drying. Start irrigation soon.,WARNING
+51,2025-06-01 10:10:00,dry_soil,10.76,37.17,28.14,44959.54,55.73,ON,2,🟡 WARNING: Soil moisture 10.8% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 28.1% — low humidity. Monitor transpiration.,WARNING
+52,2025-06-01 10:15:00,high_temp,28.22,46.3,26.64,69468.65,37.3,ON,2,🔴 CRITICAL: Temperature 46.3°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 26.6% — low humidity. Monitor transpiration.,CRITICAL
+53,2025-06-01 10:20:00,high_temp,36.07,47.74,32.75,69369.12,33.76,ON,1,🔴 CRITICAL: Temperature 47.7°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+54,2025-06-01 10:25:00,dry_soil,15.03,34.47,33.4,48675.53,73.62,ON,1,🟡 WARNING: Soil moisture 15.0% — soil drying. Start irrigation soon.,WARNING
+55,2025-06-01 10:30:00,high_temp,29.2,51.86,25.75,59863.43,50.49,ON,2,🔴 CRITICAL: Temperature 51.9°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 25.8% — low humidity. Monitor transpiration.,CRITICAL
+56,2025-06-01 10:35:00,dry_soil,20.47,31.43,32.14,48034.35,62.82,ON,1,🟡 WARNING: Soil moisture 20.5% — soil drying. Start irrigation soon.,WARNING
+57,2025-06-01 10:40:00,normal,48.13,25.19,74.44,48410.43,65.26,ON,0,None,OK
+58,2025-06-01 10:45:00,high_temp,32.93,45.21,33.26,73280.78,47.34,ON,1,🔴 CRITICAL: Temperature 45.2°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+59,2025-06-01 10:50:00,high_temp,35.32,49.27,33.65,64783.79,39.2,ON,1,🔴 CRITICAL: Temperature 49.3°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+60,2025-06-01 10:55:00,dry_soil,11.44,38.49,28.76,47113.51,60.46,ON,3,🟡 WARNING: Soil moisture 11.4% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.5°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 28.8% — low humidity. Monitor transpiration.,WARNING
+61,2025-06-01 11:00:00,dry_soil,21.45,38.03,38.99,39911.91,68.41,ON,2,🟡 WARNING: Soil moisture 21.4% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.0°C — heat stress. Increase irrigation.,WARNING
+62,2025-06-01 11:05:00,dry_soil,14.58,35.82,27.02,53815.58,54.7,ON,2,🟡 WARNING: Soil moisture 14.6% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 27.0% — low humidity. Monitor transpiration.,WARNING
+63,2025-06-01 11:10:00,dry_soil,20.65,33.05,23.11,67332.49,69.82,ON,2,🟡 WARNING: Soil moisture 20.6% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 23.1% — low humidity. Monitor transpiration.,WARNING
+64,2025-06-01 11:15:00,high_temp,23.42,45.78,26.42,60574.83,41.05,ON,3,🟡 WARNING: Soil moisture 23.4% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 45.8°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 26.4% — low humidity. Monitor transpiration.,CRITICAL
+65,2025-06-01 11:20:00,dry_soil,17.88,31.07,29.89,89184.95,75.93,ON,2,🟡 WARNING: Soil moisture 17.9% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 29.9% — low humidity. Monitor transpiration.,WARNING
+66,2025-06-01 11:25:00,high_temp,34.69,46.83,39.67,65731.24,56.73,ON,1,🔴 CRITICAL: Temperature 46.8°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+67,2025-06-01 11:30:00,normal,61.41,26.96,68.68,31043.32,59.5,ON,0,None,OK
+68,2025-06-01 11:35:00,dry_soil,7.33,31.94,28.03,57833.13,71.45,ON,2,🔴 CRITICAL: Soil moisture 7.3% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 28.0% — low humidity. Monitor transpiration.,CRITICAL
+69,2025-06-01 11:40:00,normal,45.71,24.86,60.14,54468.35,78.31,ON,0,None,OK
+70,2025-06-01 11:45:00,normal,63.3,23.32,68.97,35420.7,72.64,ON,0,None,OK
+71,2025-06-01 11:50:00,dry_soil,11.94,36.49,35.47,77727.88,73.34,ON,1,🟡 WARNING: Soil moisture 11.9% — soil drying. Start irrigation soon.,WARNING
+72,2025-06-01 11:55:00,high_temp,37.84,52.08,14.09,84443.28,48.49,ON,2,🔴 CRITICAL: Temperature 52.1°C — CROP DEATH RISK! Emergency cooling needed. | 🔴 CRITICAL: Humidity 14.1% — extreme dry air. Crops dehydrating.,CRITICAL
+73,2025-06-01 12:00:00,dry_soil,16.16,32.84,26.24,46357.67,55.24,ON,2,🟡 WARNING: Soil moisture 16.2% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 26.2% — low humidity. Monitor transpiration.,WARNING
+74,2025-06-01 12:05:00,normal,44.83,24.85,57.26,55857.26,62.11,ON,0,None,OK
+75,2025-06-01 12:10:00,dry_soil,11.78,31.57,37.74,66967.75,53.59,ON,1,🟡 WARNING: Soil moisture 11.8% — soil drying. Start irrigation soon.,WARNING
+76,2025-06-01 12:15:00,dry_soil,17.96,36.51,37.17,81137.27,66.14,ON,1,🟡 WARNING: Soil moisture 18.0% — soil drying. Start irrigation soon.,WARNING
+77,2025-06-01 12:20:00,dry_soil,14.79,35.81,30.53,68651.31,70.66,ON,1,🟡 WARNING: Soil moisture 14.8% — soil drying. Start irrigation soon.,WARNING
+78,2025-06-01 12:25:00,dry_soil,6.93,36.0,24.73,78093.48,67.61,ON,2,🔴 CRITICAL: Soil moisture 6.9% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 24.7% — low humidity. Monitor transpiration.,CRITICAL
+79,2025-06-01 12:30:00,high_temp,39.39,49.65,26.19,67194.2,35.07,ON,2,🔴 CRITICAL: Temperature 49.6°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 26.2% — low humidity. Monitor transpiration.,CRITICAL
+80,2025-06-01 12:35:00,normal,59.1,30.6,61.32,55333.8,73.96,ON,0,None,OK
+81,2025-06-01 12:40:00,high_temp,34.82,40.56,25.22,80624.78,57.65,ON,2,🟡 WARNING: Temperature 40.6°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 25.2% — low humidity. Monitor transpiration.,WARNING
+82,2025-06-01 12:45:00,normal,52.11,26.89,66.11,44840.12,67.66,ON,0,None,OK
+83,2025-06-01 12:50:00,high_temp,37.81,49.29,17.03,77825.4,42.98,ON,2,🔴 CRITICAL: Temperature 49.3°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 17.0% — low humidity. Monitor transpiration.,CRITICAL
+84,2025-06-01 12:55:00,high_temp,38.78,52.53,28.29,92316.97,38.04,ON,2,🔴 CRITICAL: Temperature 52.5°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 28.3% — low humidity. Monitor transpiration.,CRITICAL
+85,2025-06-01 13:00:00,normal,51.85,24.21,55.89,22855.04,81.58,ON,0,None,OK
+86,2025-06-01 13:05:00,dry_soil,20.18,35.27,24.7,83893.12,58.77,ON,2,🟡 WARNING: Soil moisture 20.2% — soil drying. Start irrigation soon. | 🟡 WARNING: Humidity 24.7% — low humidity. Monitor transpiration.,WARNING
+87,2025-06-01 13:10:00,high_temp,25.8,44.87,21.89,86835.0,45.69,ON,2,🟡 WARNING: Temperature 44.9°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 21.9% — low humidity. Monitor transpiration.,WARNING
+88,2025-06-01 13:15:00,high_temp,18.77,47.65,30.39,87053.87,58.47,ON,2,🟡 WARNING: Soil moisture 18.8% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 47.6°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+89,2025-06-01 13:20:00,high_temp,26.67,49.87,19.7,64295.48,35.71,ON,2,🔴 CRITICAL: Temperature 49.9°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 19.7% — low humidity. Monitor transpiration.,CRITICAL
+90,2025-06-01 13:25:00,normal,52.8,24.41,68.28,51117.13,77.46,ON,0,None,OK
+91,2025-06-01 13:30:00,high_temp,22.82,47.63,13.32,75071.16,35.57,ON,3,🟡 WARNING: Soil moisture 22.8% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 47.6°C — CROP DEATH RISK! Emergency cooling needed. | 🔴 CRITICAL: Humidity 13.3% — extreme dry air. Crops dehydrating.,CRITICAL
+92,2025-06-01 13:35:00,dry_soil,5.93,38.27,28.54,67344.31,61.95,ON,3,🔴 CRITICAL: Soil moisture 5.9% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 38.3°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 28.5% — low humidity. Monitor transpiration.,CRITICAL
+93,2025-06-01 13:40:00,normal,60.93,22.33,60.38,45293.69,71.24,ON,0,None,OK
+94,2025-06-01 13:45:00,normal,60.12,29.15,65.32,44110.93,87.33,ON,0,None,OK
+95,2025-06-01 13:50:00,dry_soil,6.95,32.57,22.51,57210.06,53.76,ON,2,🔴 CRITICAL: Soil moisture 7.0% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 22.5% — low humidity. Monitor transpiration.,CRITICAL
+96,2025-06-01 13:55:00,dry_soil,10.74,32.22,38.69,69228.76,55.22,ON,1,🟡 WARNING: Soil moisture 10.7% — soil drying. Start irrigation soon.,WARNING
+97,2025-06-01 14:00:00,high_temp,23.62,45.4,20.5,73572.91,37.0,ON,3,🟡 WARNING: Soil moisture 23.6% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 45.4°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 20.5% — low humidity. Monitor transpiration.,CRITICAL
+98,2025-06-01 14:05:00,dry_soil,7.81,37.46,24.33,46768.97,52.9,ON,2,🔴 CRITICAL: Soil moisture 7.8% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Humidity 24.3% — low humidity. Monitor transpiration.,CRITICAL
+99,2025-06-01 14:10:00,dry_soil,9.69,37.15,40.95,44726.41,55.81,ON,1,🔴 CRITICAL: Soil moisture 9.7% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+100,2025-06-01 14:15:00,high_temp,31.35,46.68,21.87,83870.06,53.76,ON,2,🔴 CRITICAL: Temperature 46.7°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 21.9% — low humidity. Monitor transpiration.,CRITICAL
+101,2025-06-01 14:20:00,normal,46.77,23.84,59.91,29009.6,78.01,ON,0,None,OK
+102,2025-06-01 14:25:00,dry_soil,18.26,38.88,21.11,45807.31,66.63,ON,3,🟡 WARNING: Soil moisture 18.3% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.9°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 21.1% — low humidity. Monitor transpiration.,WARNING
+103,2025-06-01 14:30:00,normal,55.02,22.67,69.96,43301.12,84.73,ON,0,None,OK
+104,2025-06-01 14:35:00,high_temp,24.83,46.56,22.32,81122.55,34.28,ON,3,🟡 WARNING: Soil moisture 24.8% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 46.6°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 22.3% — low humidity. Monitor transpiration.,CRITICAL
+105,2025-06-01 14:40:00,normal,53.96,25.52,73.18,50397.17,78.08,ON,0,None,OK
+106,2025-06-01 14:45:00,dry_soil,9.62,38.07,33.65,48673.59,66.4,ON,2,🔴 CRITICAL: Soil moisture 9.6% — CROPS AT WILTING RISK! Irrigate immediately. | 🟡 WARNING: Temperature 38.1°C — heat stress. Increase irrigation.,CRITICAL
+107,2025-06-01 14:50:00,dry_soil,9.96,35.02,32.91,39095.34,51.77,ON,1,🔴 CRITICAL: Soil moisture 10.0% — CROPS AT WILTING RISK! Irrigate immediately.,CRITICAL
+108,2025-06-01 14:55:00,high_temp,35.92,50.14,20.92,76793.86,40.82,ON,2,🔴 CRITICAL: Temperature 50.1°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 20.9% — low humidity. Monitor transpiration.,CRITICAL
+109,2025-06-01 15:00:00,high_temp,22.39,52.08,30.51,79666.58,43.88,ON,2,🟡 WARNING: Soil moisture 22.4% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 52.1°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+110,2025-06-01 15:05:00,normal,46.11,25.07,58.52,30622.83,65.73,ON,0,None,OK
+111,2025-06-01 15:10:00,high_temp,40.31,50.25,16.47,90345.62,53.78,ON,2,🔴 CRITICAL: Temperature 50.2°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 16.5% — low humidity. Monitor transpiration.,CRITICAL
+112,2025-06-01 15:15:00,normal,56.85,22.69,70.73,35434.13,83.71,ON,0,None,OK
+113,2025-06-01 15:20:00,high_temp,35.54,45.62,18.2,96302.28,55.03,ON,3,🔴 CRITICAL: Temperature 45.6°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 18.2% — low humidity. Monitor transpiration. | 🔴 CRITICAL: Light 96302 lux — extreme intensity. Shading needed.,CRITICAL
+114,2025-06-01 15:25:00,normal,60.93,27.66,75.16,31599.64,84.77,ON,0,None,OK
+115,2025-06-01 15:30:00,normal,64.5,25.84,58.54,30594.51,89.33,ON,0,None,OK
+116,2025-06-01 15:35:00,high_temp,33.51,50.86,33.29,87380.1,47.05,ON,1,🔴 CRITICAL: Temperature 50.9°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+117,2025-06-01 15:40:00,normal,52.05,25.12,67.26,33636.7,56.76,ON,0,None,OK
+118,2025-06-01 15:45:00,normal,65.67,27.42,60.18,22001.99,69.0,OFF,0,None,OK
+119,2025-06-01 15:50:00,normal,47.82,25.28,68.57,35338.84,68.54,OFF,0,None,OK
+120,2025-06-01 15:55:00,normal,54.41,24.1,66.65,48959.75,77.16,OFF,0,None,OK
+121,2025-06-01 16:00:00,normal,56.07,26.43,75.54,40311.73,70.73,OFF,0,None,OK
+122,2025-06-01 16:05:00,high_temp,30.85,51.06,29.52,63433.87,60.06,OFF,2,🔴 CRITICAL: Temperature 51.1°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 29.5% — low humidity. Monitor transpiration.,CRITICAL
+123,2025-06-01 16:10:00,normal,56.16,26.14,65.85,39323.59,82.38,OFF,0,None,OK
+124,2025-06-01 16:15:00,normal,56.4,26.0,55.93,45020.18,76.6,OFF,0,None,OK
+125,2025-06-01 16:20:00,normal,47.77,27.29,67.0,22088.87,75.61,OFF,0,None,OK
+126,2025-06-01 16:25:00,high_temp,26.94,48.38,15.64,85280.44,49.21,ON,2,🔴 CRITICAL: Temperature 48.4°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 15.6% — low humidity. Monitor transpiration.,CRITICAL
+127,2025-06-01 16:30:00,normal,60.45,27.31,62.46,32581.29,63.08,ON,0,None,OK
+128,2025-06-01 16:35:00,normal,46.73,19.51,63.71,55126.89,85.66,ON,0,None,OK
+129,2025-06-01 16:40:00,high_temp,32.77,51.79,20.82,79875.73,59.55,ON,2,🔴 CRITICAL: Temperature 51.8°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 20.8% — low humidity. Monitor transpiration.,CRITICAL
+130,2025-06-01 16:45:00,normal,57.07,25.99,59.03,55375.49,71.7,ON,0,None,OK
+131,2025-06-01 16:50:00,normal,59.45,28.89,64.82,52107.8,66.45,ON,0,None,OK
+132,2025-06-01 16:55:00,normal,51.15,27.88,54.85,52638.41,64.37,ON,0,None,OK
+133,2025-06-01 17:00:00,normal,46.21,26.21,77.94,26465.8,77.58,ON,0,None,OK
+134,2025-06-01 17:05:00,normal,54.56,24.0,67.61,44270.54,73.37,ON,0,None,OK
+135,2025-06-01 17:10:00,normal,43.43,24.8,67.0,42064.6,76.96,ON,0,None,OK
+136,2025-06-01 17:15:00,high_temp,40.98,45.68,24.21,78116.3,43.31,ON,2,🔴 CRITICAL: Temperature 45.7°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 24.2% — low humidity. Monitor transpiration.,CRITICAL
+137,2025-06-01 17:20:00,high_temp,38.79,45.87,24.96,72412.17,39.48,ON,2,🔴 CRITICAL: Temperature 45.9°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 25.0% — low humidity. Monitor transpiration.,CRITICAL
+138,2025-06-01 17:25:00,normal,51.39,28.11,68.58,32798.75,71.93,ON,0,None,OK
+139,2025-06-01 17:30:00,normal,48.81,27.53,58.78,40566.97,84.56,ON,0,None,OK
+140,2025-06-01 17:35:00,high_temp,25.83,50.73,17.78,72235.71,45.76,ON,2,🔴 CRITICAL: Temperature 50.7°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 17.8% — low humidity. Monitor transpiration.,CRITICAL
+141,2025-06-01 17:40:00,normal,58.62,30.27,60.05,51327.79,74.84,ON,0,None,OK
+142,2025-06-01 17:45:00,normal,53.12,23.27,66.31,35443.43,67.6,ON,0,None,OK
+143,2025-06-01 17:50:00,normal,64.64,23.14,67.42,31040.71,81.43,ON,0,None,OK
+144,2025-06-01 17:55:00,normal,64.24,26.51,63.91,59748.33,72.25,ON,0,None,OK
+145,2025-06-01 18:00:00,normal,45.54,25.94,57.67,57239.17,65.88,ON,0,None,OK
+146,2025-06-01 18:05:00,normal,53.52,29.32,67.09,23813.75,71.31,ON,0,None,OK
+147,2025-06-01 18:10:00,normal,54.35,26.93,62.68,40985.03,79.29,ON,0,None,OK
+148,2025-06-01 18:15:00,normal,48.25,27.78,61.28,47063.38,90.55,ON,0,None,OK
+149,2025-06-01 18:20:00,normal,46.14,26.96,76.05,30092.83,68.01,ON,0,None,OK
+150,2025-06-01 18:25:00,normal,51.88,20.44,67.41,22510.16,64.62,ON,0,None,OK
+151,2025-06-01 18:30:00,normal,60.69,27.07,57.05,41710.91,82.02,ON,0,None,OK
+152,2025-06-01 18:35:00,normal,52.86,27.3,76.67,20260.7,80.02,ON,0,None,OK
+153,2025-06-01 18:40:00,high_temp,24.88,50.94,32.42,94896.93,64.35,ON,2,🟡 WARNING: Soil moisture 24.9% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 50.9°C — CROP DEATH RISK! Emergency cooling needed.,CRITICAL
+154,2025-06-01 18:45:00,normal,44.4,27.31,73.8,45180.21,71.84,ON,0,None,OK
+155,2025-06-01 18:50:00,normal,46.01,23.7,70.62,46532.37,69.22,ON,0,None,OK
+156,2025-06-01 18:55:00,normal,41.7,26.68,62.83,29773.0,84.8,ON,0,None,OK
+157,2025-06-01 19:00:00,normal,63.82,26.64,57.94,37953.77,78.78,ON,0,None,OK
+158,2025-06-01 19:05:00,normal,60.46,23.41,56.42,26069.17,68.39,ON,0,None,OK
+159,2025-06-01 19:10:00,normal,54.67,22.97,70.87,36982.92,84.52,ON,0,None,OK
+160,2025-06-01 19:15:00,normal,56.93,26.45,67.36,25747.21,66.54,ON,0,None,OK
+161,2025-06-01 19:20:00,low_water,15.77,25.72,40.76,24353.53,12.51,ON,2,🟡 WARNING: Soil moisture 15.8% — soil drying. Start irrigation soon. | 🟡 WARNING: Water tank 12.5% — refill soon to avoid pump damage.,WARNING
+162,2025-06-01 19:25:00,normal,42.34,28.73,73.27,16953.0,85.75,ON,0,None,OK
+163,2025-06-01 19:30:00,normal,56.35,27.43,70.24,49672.98,74.6,ON,0,None,OK
+164,2025-06-01 19:35:00,normal,53.3,26.69,55.67,30195.11,72.62,ON,0,None,OK
+165,2025-06-01 19:40:00,normal,50.79,29.75,58.29,47730.46,88.54,ON,0,None,OK
+166,2025-06-01 19:45:00,normal,57.16,28.6,64.39,30596.7,67.55,ON,0,None,OK
+167,2025-06-01 19:50:00,normal,61.02,24.63,67.47,28026.62,80.27,ON,0,None,OK
+168,2025-06-01 19:55:00,low_water,30.08,33.32,37.88,53207.51,10.61,ON,1,🟡 WARNING: Water tank 10.6% — refill soon to avoid pump damage.,WARNING
+169,2025-06-01 20:00:00,normal,44.39,26.63,70.66,56698.48,80.17,ON,0,None,OK
+170,2025-06-01 20:05:00,normal,46.86,21.61,67.08,23388.44,66.12,ON,0,None,OK
+171,2025-06-01 20:10:00,normal,64.39,28.74,60.78,34100.2,95.73,ON,0,None,OK
+172,2025-06-01 20:15:00,normal,65.67,25.24,62.76,51694.57,69.75,OFF,0,None,OK
+173,2025-06-01 20:20:00,normal,46.72,22.71,69.56,57666.98,67.81,OFF,0,None,OK
+174,2025-06-01 20:25:00,normal,52.21,26.64,56.71,29058.47,78.87,OFF,0,None,OK
+175,2025-06-01 20:30:00,normal,53.55,22.95,67.17,31421.89,74.94,OFF,0,None,OK
+176,2025-06-01 20:35:00,normal,46.66,24.35,63.02,45657.18,69.96,OFF,0,None,OK
+177,2025-06-01 20:40:00,normal,52.2,27.61,64.22,20630.06,80.22,OFF,0,None,OK
+178,2025-06-01 20:45:00,low_water,10.61,32.28,43.86,20146.58,5.47,OFF,2,🟡 WARNING: Soil moisture 10.6% — soil drying. Start irrigation soon. | 🟡 WARNING: Water tank 5.5% — refill soon to avoid pump damage.,WARNING
+179,2025-06-01 20:50:00,low_water,13.04,30.14,43.23,38809.81,9.65,OFF,2,🟡 WARNING: Soil moisture 13.0% — soil drying. Start irrigation soon. | 🟡 WARNING: Water tank 9.7% — refill soon to avoid pump damage.,WARNING
+180,2025-06-01 20:55:00,normal,47.71,25.82,58.56,35185.87,79.1,OFF,0,None,OK
+181,2025-06-01 21:00:00,normal,57.55,27.74,71.93,23115.97,90.89,OFF,0,None,OK
+182,2025-06-01 21:05:00,low_water,14.01,33.0,41.9,30521.99,5.96,OFF,2,🟡 WARNING: Soil moisture 14.0% — soil drying. Start irrigation soon. | 🟡 WARNING: Water tank 6.0% — refill soon to avoid pump damage.,WARNING
+183,2025-06-01 21:10:00,normal,60.46,25.11,74.26,55483.15,56.32,OFF,0,None,OK
+184,2025-06-01 21:15:00,low_water,31.31,29.31,34.82,46931.92,14.4,OFF,1,🟡 WARNING: Water tank 14.4% — refill soon to avoid pump damage.,WARNING
+185,2025-06-01 21:20:00,normal,61.79,28.01,70.62,49323.0,78.85,OFF,0,None,OK
+186,2025-06-01 21:25:00,normal,48.56,24.31,60.18,35061.57,59.75,OFF,0,None,OK
+187,2025-06-01 21:30:00,normal,55.63,25.17,67.77,59483.08,87.7,OFF,0,None,OK
+188,2025-06-01 21:35:00,normal,50.22,26.53,64.54,41392.12,68.46,OFF,0,None,OK
+189,2025-06-01 21:40:00,normal,50.91,28.7,58.09,29468.92,72.42,OFF,0,None,OK
+190,2025-06-01 21:45:00,normal,45.96,28.34,76.52,57558.64,79.2,OFF,0,None,OK
+191,2025-06-01 21:50:00,normal,53.74,21.77,63.44,45205.1,79.69,OFF,0,None,OK
+192,2025-06-01 21:55:00,normal,49.86,27.51,58.81,38477.76,78.1,OFF,0,None,OK
+193,2025-06-01 22:00:00,night,63.98,18.06,73.95,65.51,67.03,OFF,1,🟡 WARNING: Light 66 lux — insufficient for photosynthesis.,WARNING
+194,2025-06-01 22:05:00,night,48.0,19.5,88.79,0.0,78.79,OFF,0,None,OK
+195,2025-06-01 22:10:00,night,48.12,12.31,70.08,3840.8,64.52,OFF,0,None,OK
+196,2025-06-01 22:15:00,night,53.97,15.9,70.6,0.0,57.34,OFF,0,None,OK
+197,2025-06-01 22:20:00,night,41.58,15.42,79.2,829.07,57.87,OFF,0,None,OK
+198,2025-06-01 22:25:00,night,62.18,17.26,93.15,932.02,68.38,OFF,1,🟡 WARNING: Humidity 93.2% — fungal disease risk. Improve ventilation.,WARNING
+199,2025-06-01 22:30:00,night,43.06,18.01,84.46,853.77,64.18,OFF,0,None,OK
+200,2025-06-01 22:35:00,night,58.06,19.49,92.28,0.0,60.82,OFF,1,🟡 WARNING: Humidity 92.3% — fungal disease risk. Improve ventilation.,WARNING

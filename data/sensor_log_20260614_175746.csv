@@ -1,0 +1,11 @@
+reading_id,timestamp,scenario,soil_moisture,temperature,humidity,light_intensity,water_level,pump_status,alert_count,alerts
+1,2026-06-14 17:57:46,dry_soil,12.5,38.61,25.23,49586.97,55.15,OFF,3,🟡 WARNING: Soil moisture 12.5% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 38.6°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 25.2% — low humidity. Monitor transpiration.
+2,2026-06-14 17:57:46,normal,49.34,21.73,67.02,50998.18,67.5,OFF,0,None
+3,2026-06-14 17:57:47,high_temp,19.06,48.94,29.71,65804.6,58.64,OFF,3,🟡 WARNING: Soil moisture 19.1% — soil drying. Start irrigation soon. | 🔴 CRITICAL: Temperature 48.9°C — CROP DEATH RISK! Emergency cooling needed. | 🟡 WARNING: Humidity 29.7% — low humidity. Monitor transpiration.
+4,2026-06-14 17:57:47,normal,61.69,23.19,70.84,58686.07,65.36,OFF,0,None
+5,2026-06-14 17:57:47,dry_soil,17.61,39.9,29.79,71449.67,63.33,OFF,3,🟡 WARNING: Soil moisture 17.6% — soil drying. Start irrigation soon. | 🟡 WARNING: Temperature 39.9°C — heat stress. Increase irrigation. | 🟡 WARNING: Humidity 29.8% — low humidity. Monitor transpiration.
+6,2026-06-14 17:57:48,normal,59.01,28.16,56.48,27449.81,71.97,OFF,0,None
+7,2026-06-14 17:57:48,night,56.4,16.78,78.85,2529.43,72.44,OFF,0,None
+8,2026-06-14 17:57:48,normal,54.03,28.15,56.39,43712.42,74.55,OFF,0,None
+9,2026-06-14 17:57:49,dry_soil,3.1,37.23,33.51,49794.33,54.87,OFF,1,🔴 CRITICAL: Soil moisture 3.1% — CROPS AT WILTING RISK! Irrigate immediately.
+10,2026-06-14 17:57:49,normal,60.23,26.65,58.92,45012.41,81.94,OFF,0,None
