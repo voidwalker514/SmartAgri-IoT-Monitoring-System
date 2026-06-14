@@ -1,0 +1,41 @@
+# ============================================================
+# IoT Smart Agriculture Monitoring System - Requirements
+# ============================================================
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Data visualization & dashboard
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Interactive dashboard (web-based)
+dash==2.17.1
+dash-bootstrap-components==1.6.0
+
+# Serial communication (for real Arduino)
+pyserial==3.5
+
+# MQTT protocol support (optional)
+paho-mqtt==2.1.0
+
+# HTTP requests (ThingSpeak/Blynk API)
+requests==2.32.3
+
+# Environment variables (API key protection)
+python-dotenv==1.0.1
+
+# Rich terminal output
+rich==13.7.1
+
+# Scheduling / time simulation
+schedule==1.2.2
+
+# Alert / notification (optional)
+plyer==2.1.0
+
+# CSV and data export
+openpyxl==3.1.4

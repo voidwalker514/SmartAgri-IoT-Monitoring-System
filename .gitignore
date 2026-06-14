@@ -1,0 +1,50 @@
+# ─── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# ─── Virtual Environments ──────────────────────────────────
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# ─── IDE / Editor ──────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# ─── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Secrets & API Keys ────────────────────────────────────
+.env
+secrets.json
+api_keys.txt
+config_private.py
+
+# ─── Data / Logs (optional - keep sample data) ─────────────
+data/live_readings.csv
+outputs/live_*.csv
+*.log
+
+# ─── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Compiled / Binary ─────────────────────────────────────
+*.bin
+*.hex
